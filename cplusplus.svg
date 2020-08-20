@@ -1,7 +1,7 @@
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
   <style>
     svg {
-      background-color: #00599C;
+      filter: invert(15%) sepia(78%) saturate(6286%) hue-rotate(194deg) brightness(86%) contrast(104%);
     }
   </style>
   <title>C++ icon</title>
