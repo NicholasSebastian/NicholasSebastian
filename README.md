@@ -15,12 +15,12 @@ Instagram: https://www.instagram.com/nicholashendrata/
 
 ### Languages and Tools:
 
-<img align="left" alt="C++" width="30px" src="cplusplus.svg" >
-<img align="left" alt="C#" width="30px" src="csharp.svg" >
-<img align="left" alt="HTML5" width="30px" src="html5.svg" />
-<img align="left" alt="CSS3" width="30px" src="css3.svg" />
-<img align="left" alt="JavaScript" width="30px" src="javascript.svg" />
-<img align="left" alt="Python" width="30px" src="python.svg" >
-<img align="left" alt="Git" width="30px" src="git.svg" />
-<img align="left" alt="GitHub" width="30px" src="github.svg" />
+<img align="left" alt="C++" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/cplusplus.svg" >
+<img align="left" alt="C#" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/csharp.svg" >
+<img align="left" alt="HTML5" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/html5.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/css3.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/javascript.svg" />
+<img align="left" alt="Python" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/python.svg" >
+<img align="left" alt="Git" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/git.svg" />
+<img align="left" alt="GitHub" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/github.svg" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
