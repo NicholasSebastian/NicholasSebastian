@@ -23,4 +23,3 @@ Instagram: https://www.instagram.com/nicholashendrata/
 <img align="left" alt="Python" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/python.svg" >
 <img align="left" alt="Git" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/git.svg" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/NicholasSebastian/NicholasSebastian/blob/master/github.svg" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
