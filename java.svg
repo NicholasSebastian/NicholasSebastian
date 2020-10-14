@@ -1,7 +1,7 @@
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
   <style>
     svg {
-      filter: invert(22%) sepia(70%) saturate(3069%) hue-rotate(176deg) brightness(95%) contrast(104%);
+      filter: invert(16%) sepia(49%) saturate(6311%) hue-rotate(349deg) brightness(104%) contrast(93%);
     }
   </style>
   <title>Java icon</title>
