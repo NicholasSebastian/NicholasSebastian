@@ -2,14 +2,16 @@
 
 # I'm a Computer Science student
 
-- 🔭 I’m currently working on a personal website with Next.js
-- 🌱 I’m currently learning Node.js, Express.js and WebSockets
-- 👯 I'm looking to get more experience about the IT industry
-- ⚡ Fun fact: I love dogs.
+- 💪 I'm a jack-of-all-trades programmer. I do websites, mobile apps, desktop apps, and games.
+- 🔭 I’m currently working on a game engine with C#.
+- 🌱 I’m currently learning graphics programming with OpenGL.
+- 👯 I'm looking to get more experience to deepen my understanding of IT, innovation and all its possible uses.
+- ⚡ Fun fact: I love dogs, I hate Python.
 
 ### Connect with me:
 
 Email: nicholashendrata110900@gmail.com <br/>
+Website: https://www.nichsebastian.com/ <br/>
 LinkedIn: https://www.linkedin.com/in/nichsebastian/ <br/>
 Instagram: https://www.instagram.com/nicholashendrata/
 
