@@ -4,7 +4,7 @@
 
 - 💪 I'm a jack-of-all-trades programmer. I do websites, mobile apps, desktop apps, and games.
 - 🔭 I’m currently working on a game engine with C#.
-- 🌱 I’m currently learning graphics programming with OpenGL.
+- 🌱 I’m currently learning C++ and graphics programming with OpenGL.
 - 👯 I'm looking to get more experience to deepen my understanding of IT, innovation and all its possible uses.
 - ⚡ Fun fact: I love dogs, I hate Python.
 
