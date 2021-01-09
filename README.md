@@ -3,10 +3,10 @@
 # I'm a second-year Computer Science student
 
 - 💪 I'm a jack-of-all-trades programmer. I do websites, mobile apps, desktop apps, and games.
-- 🔭 I’m currently working on a game engine with C#.
+- 🔭 I’m always working on multiple different projects.
 - 🌱 I’m currently learning C++ and graphics programming with OpenGL.
 - 👯 I'm looking to get more experience to deepen my understanding of IT, innovation and all its possible uses.
-- ⚡ Fun fact: I love dogs, I hate Python.
+- ⚡ Fun fact: I love dogs, I hate snakes, including Python.
 
 ### Connect with me:
 
