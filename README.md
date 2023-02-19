@@ -1,6 +1,6 @@
 ### Hi, I'm Nicholas 👋
 
-# I'm a Programmer with a degree in Computer Science
+# I'm a programmer
 
 - 💪 I'm a jack-of-all-trades programmer. I do websites, mobile apps, desktop apps, and games.
 - 🔭 I’m always working on multiple different projects.
