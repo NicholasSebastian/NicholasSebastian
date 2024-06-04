@@ -5,7 +5,7 @@
 - 💪 I'm a jack-of-all-trades programmer. I do websites, mobile apps, desktop apps, and games.
 - 🔭 I’m always working on multiple different projects.
 - 👯 I'm looking to get more experience to deepen my understanding of IT, innovation and all its possible uses.
-- ⚡ Fun fact: I love dogs and I have 3 very cute ones.
+- ⚡ Fun fact: I'm currently overworked so I don't have as much as time to code as I used to.
 
 ### Connect with me:
 
